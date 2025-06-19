@@ -1,7 +1,3 @@
-# cim10-mapper# =============================================================================
-# README.md
-# =============================================================================
-
 # Foch CIM-10 Mapper
 
 A Python package for mapping French medical text to CIM-10 codes using Named Entity Recognition (NER) and semantic similarity.
