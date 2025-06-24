@@ -133,7 +133,7 @@ class FochCIM10Mapper:
         try:
             # Get the path to package data
             embeddings_path = pkg_resources.resource_filename(
-                'foch_cim10_mapper', 
+                'cim10_mapper', 
                 'data/cim10_embeddings_FremyCompany_BioLORD-2023-M_cpu.pkl'
             )
             
